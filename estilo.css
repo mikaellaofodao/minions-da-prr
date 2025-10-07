@@ -1,7 +1,14 @@
 body{
 background-color: rgb(250, 255, 105);
-color:blue
+color:blue;
+display: flex;
+justify-content: center;
+align-items: center;
 }
+main{ 
+    text-align: center;
+    max-width: 90;
+ }
 
 .img01{
 width: 70%;
