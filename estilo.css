@@ -9,6 +9,11 @@ main{
     text-align: center;
     max-width: 90;
  }
+ button{
+    background-color: blue;
+    color: aliceblue;
+    padding: 20%;
+ }
 
 .img01{
 width: 70%;
