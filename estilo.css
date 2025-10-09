@@ -19,7 +19,7 @@ main{
 width: 70%;
 }
 .passo{
-   display: none;
+   display: non;
 }
 .passo.ativo{
 display: block;
